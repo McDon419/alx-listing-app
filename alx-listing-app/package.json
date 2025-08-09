@@ -1,0 +1,26 @@
+{
+  "name": "alx-listing-app",
+  "version": "1.0.0",
+  "description": "A listing application built with Tailwind CSS and JavaScript.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "build": "echo 'Build script not defined'",
+    "test": "echo 'Test script not defined'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^2.2.19"
+  },
+  "devDependencies": {},
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/alx-listing-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/alx-listing-app/issues"
+  }
+}
