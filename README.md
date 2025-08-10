@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ALX Listing App
 
 A  scaffolded Airbnb clone built using Next.js, TypeScript, TailwindCSS, and ESLint.
@@ -19,3 +20,6 @@ A  scaffolded Airbnb clone built using Next.js, TypeScript, TailwindCSS, and ESL
 ```bash
 npm install
 npm run dev
+=======
+# alx-listing-app
+>>>>>>> 7d2811c7a1cdbc72b588b2c20b28a8f3ab8ec7e2
