@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ALX Listing App
 
 A  scaffolded Airbnb clone built using Next.js, TypeScript, TailwindCSS, and ESLint.
